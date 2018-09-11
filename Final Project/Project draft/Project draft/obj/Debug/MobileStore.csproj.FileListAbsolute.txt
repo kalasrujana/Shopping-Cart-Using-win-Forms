@@ -1,0 +1,24 @@
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\AppData\Project.mdf
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\AppData\Project_log.ldf
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\Project draft.exe.config
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\Project draft.exe
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\Project draft.pdb
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.AddMobile.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.AdminAccount.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.CartAndCheckoutForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.CompareProductsForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.DeleteMobile.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.ForgotPassword.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.Login.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.OrderHistoryForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\Project_draft.Properties.Resources.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.SignUp.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.UpdateMobile.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.UserAccountForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.UserAccountMainForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.ViewPurchases.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.zoomImageForm.resources
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\Project draft.exe
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\obj\Debug\Project draft.pdb
+D:\Third_Semester\Avanced App Dev Using Visual C#\Final Project\Project draft\Project draft\bin\Debug\App.config
